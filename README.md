@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brucepaladin
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...Github
 - 📫 How to reach me - bruce@paladinpower.com
 
 <!---
